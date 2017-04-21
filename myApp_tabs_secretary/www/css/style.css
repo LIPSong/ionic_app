@@ -1,0 +1,10 @@
+/* Empty. Add your own CSS if you like */
+.space-bottom{
+	margin-bottom: 10px;
+}
+.item-content{
+	margin-right: -5rem;
+}	
+#showLocationMapView{
+	height: 10rem;
+}
